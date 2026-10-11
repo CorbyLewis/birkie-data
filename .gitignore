@@ -1,0 +1,6 @@
+# Cached race results (see build.py); not published
+cache/
+
+# Python
+.venv/
+__pycache__/
